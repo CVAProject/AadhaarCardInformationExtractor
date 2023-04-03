@@ -3,7 +3,7 @@ This project is an implementation of OCR (Optical Character Recognition) to extr
 
 ## Setup
 1. Install the required packages by running pip install -r requirements.txt.
-2. Download and install Tesseract OCR from here.
+2. Download and install Tesseract OCR from [here](https://github.com/UB-Mannheim/tesseract/wiki).
 3. Set the Tesseract OCR engine path in the code.
 
 ## Usage
