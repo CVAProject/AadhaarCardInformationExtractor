@@ -1,5 +1,6 @@
 # Aadhaar Card Information Extractor
 This project is an implementation of OCR (Optical Character Recognition) to extract relevant information from an Aadhaar card.
+Deployed App: https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/
 
 ## Setup
 1. Install the required packages by running pip install -r requirements.txt.
