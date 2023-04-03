@@ -7,7 +7,7 @@ import streamlit as st
 from PIL import Image
 
 # Set your Tesseract OCR engine path
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 def image_processing(image):
