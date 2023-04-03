@@ -10,3 +10,14 @@ This project is an implementation of OCR (Optical Character Recognition) to extr
 1. Run the code `python aadhaar_info_extractor.py image_name.jpg`, replace `image_name.jpg` with the filepath to your image.
 2. The input image, warped image, and processed image will be displayed.
 3. The extracted text (Aadhaar number, name, DOB, and gender) will be printed in the console.
+
+# Aadhaar Card Information Extractor - Streamlit
+
+## Follow same setup steps as mentioned earlier
+
+## Usage
+1. Run the code `streamlit run aadhar_info_extractor_streamlit.py`.
+2. Open localhost link as display on the terminal.
+3. Upload images via the file uploader.
+4. The extracted text (Aadhaar number, name, DOB, and gender) will be printed on the page.
+
