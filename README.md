@@ -8,6 +8,6 @@ This project is an implementation of OCR (Optical Character Recognition) to extr
 4. Set the input image path in the code. For example, `frame = cv2.imread('ss_aadhaar.jpg')`
 
 ## Usage
-1. Run the code `python aadhaar_ocr.py`.
+1. Run the code `python aadhaar_info_extractor.py`.
 2. The input image, warped image, and processed image will be displayed.
 3. The extracted text (Aadhaar number, name, DOB, and gender) will be printed in the console.
