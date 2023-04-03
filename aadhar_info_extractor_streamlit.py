@@ -71,6 +71,13 @@ def extractText(ocr_text):
         st.write("Gender not detected.")
 
 
+st.set_page_config(
+page_title = 'Aadhaar Information Extractor',
+layout = 'centered',
+)
+ 
+st.markdown("<h1 style='text-align: center; color: white;'>Aadhaar Card Information Extractor</h1>", unsafe_allow_html=True)
+    
 scale = 0.5
 
 font = cv2.FONT_HERSHEY_SIMPLEX
