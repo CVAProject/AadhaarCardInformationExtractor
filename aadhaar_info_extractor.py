@@ -3,6 +3,7 @@ import numpy as np
 from imutils.perspective import four_point_transform
 import pytesseract
 import re
+import sys
 
 # Set your Tesseract OCR engine path
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -67,9 +68,8 @@ def extractText(ocr_text):
     else:
         print("Gender not detected.")
 
-
-# Set your input image path
-frame = cv2.imread('ss_aadhaar.jpg')
+image_path = sys.argv[1]
+frame = cv2.imread(image_path)
 
 scale = 0.5
 
