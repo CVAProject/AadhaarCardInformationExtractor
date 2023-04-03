@@ -16,9 +16,11 @@ Deployed App: https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0
 
 ## Follow same setup steps
 
-## Usage
+## Usage: 
+### For Self-hosting the application:
 1. Run the code `streamlit run aadhar_info_extractor_streamlit.py`.
 2. Open localhost link as display on the terminal.
 3. Upload images via the file uploader.
 4. The extracted text (Aadhaar number, name, DOB, and gender) will be printed on the page.
 
+### Alternatively, deployed website available [here](https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/)
