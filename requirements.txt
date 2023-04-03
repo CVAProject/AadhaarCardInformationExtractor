@@ -4,3 +4,4 @@ pytesseract
 streamlit
 imutils
 opencv-python
+scipy
