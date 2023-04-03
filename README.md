@@ -13,7 +13,7 @@ This project is an implementation of OCR (Optical Character Recognition) to extr
 
 # Aadhaar Card Information Extractor - Streamlit
 
-## Follow same setup steps as mentioned earlier
+## Follow same setup steps
 
 ## Usage
 1. Run the code `streamlit run aadhar_info_extractor_streamlit.py`.
