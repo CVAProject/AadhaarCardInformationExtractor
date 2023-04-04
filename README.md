@@ -32,4 +32,4 @@ Then, just type acie followed by the filename argument, for example:
 
 ### Alternatively, deployed website available [here](https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/)
 <hr>
-PyPi Repository: [here](https://pypi.org/project/acie/)
+PyPi Repository: https://pypi.org/project/acie/
