@@ -1,6 +1,7 @@
 # Aadhaar Card Information Extractor
 This project is an implementation of OCR (Optical Character Recognition) to extract relevant information from an Aadhaar card.
-Deployed App: https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/
+
+Deployed App: [here](https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/)
 
 ## Setup
 1. Install the required packages by running pip install -r requirements.txt.
@@ -12,6 +13,12 @@ Deployed App: https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0
 2. The input image, warped image, and processed image will be displayed.
 3. The extracted text (Aadhaar number, name, DOB, and gender) will be printed in the console.
 
+OR
+
+`pip install aice`<br>
+Then, just type acie followed by the filename argument, for example:
+`acie filename.jpg`
+<hr>
 # Aadhaar Card Information Extractor - Streamlit
 
 ## Follow same setup steps
@@ -24,3 +31,4 @@ Deployed App: https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0
 4. The extracted text (Aadhaar number, name, DOB, and gender) will be printed on the page.
 
 ### Alternatively, deployed website available [here](https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/)
+
