@@ -31,4 +31,5 @@ Then, just type acie followed by the filename argument, for example:
 4. The extracted text (Aadhaar number, name, DOB, and gender) will be printed on the page.
 
 ### Alternatively, deployed website available [here](https://cvaproject-aadhaarcardin-aadhar-info-extractor-streamlit-0gi7up.streamlit.app/)
-
+<hr>
+PyPi Repository: [here](https://pypi.org/project/acie/)
