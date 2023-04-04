@@ -6,9 +6,9 @@ import re
 import streamlit as st
 from PIL import Image
 
-# Set your Tesseract OCR engine path
+# For local hosting, uncomment the below line and set your local Tesseract OCR engine path
 # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
+pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'   #comment this line while hosting locally
 
 
 def image_processing(image):
