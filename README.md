@@ -15,7 +15,7 @@ Deployed App: [here](https://cvaproject-aadhaarcardin-aadhar-info-extractor-stre
 
 OR
 
-`pip install aice`<br>
+`pip install acie`<br>
 Then, just type acie followed by the filename argument, for example:
 `acie filename.jpg`
 <hr>
